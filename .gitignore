@@ -5,13 +5,3 @@ dev-dist/
 coverage/
 .DS_Store
 *.log
-.env*
-!.env.example
-.playwright-cli/
-.aistudio/
-tmp/
-*.png
-!public/*.png
-!public/**/*.png
-!screenshots/*.png
-!screenshots/**/*.png
