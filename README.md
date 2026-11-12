@@ -392,8 +392,8 @@ Hosting & Deploy       Vercel Zero-Config, SPA Rewrite Rules, Cache-Control Head
 ### Step-by-Step Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/minjeuuu/LawMario.git
-   cd LawMario
+   git clone https://github.com/minjeuuu/Laborio.git
+   cd Laborio
    ```
 
 2. Install dependencies:
@@ -425,7 +425,7 @@ This repository is optimized for one-click deployment on **Vercel**:
 
 1. Push your repository to your GitHub account.
 2. Visit [Vercel](https://vercel.com) and click **Add New Project**.
-3. Import your `LawMario` repository.
+3. Import your `Laborio` repository.
 4. Vercel automatically detects the framework preset as **Vite**:
    * **Build Command**: `npm run build`
    * **Output Directory**: `dist`
