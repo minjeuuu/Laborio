@@ -1,4 +1,4 @@
-# Super Mario Labor Law Memory Aid & Bar Reviewer
+# Super Mario Labor Law Memory Aid
 ### Comprehensive Philippine Labor Standards, Welfare Statutes & Jurisprudence Guide
 *(Presidential Decree No. 442, as Amended • DOLE Handbook 2024–2025 • Supreme Court Landmark Doctrines)*
 
