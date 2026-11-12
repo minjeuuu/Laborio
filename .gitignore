@@ -4,4 +4,3 @@ dist/
 dev-dist/
 coverage/
 .DS_Store
-*.log
